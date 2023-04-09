@@ -1,0 +1,412 @@
+﻿#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="FILMES",TCM
+http://live.309.ch.cabo.tv.br/live/channel_309.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="CANAIS SD",HBO PLUS
+http://live.315.ch.cabo.tv.br/live/channel_315
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Max_logo.png" group-title="CANAIS SD",MAX
+http://live.319.ch.cabo.tv.br/live/channel_319.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Max_Prime_2012_logo.svg/1280px-Max_Prime_2012_logo.svg.png" group-title="CANAIS SD",MAX PRIME
+http://live.320.ch.cabo.tv.br/live/channel_320.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAIS SD",GLOBO SD
+http://live.804.ch.cabo.tv.br/dav/live/channel/804/804.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS SD",TV Cultura
+http://live.807.ch.cabo.tv.br/live/channel_807.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS SD",EI MAX 2
+http://live.816.ch.cabo.tv.br/live/channel_816.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS SD", Prime Box Brazil
+http://live.830.ch.cabo.tv.br/live/channel_830.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS SD",Discovery Civilization
+http://live.831.ch.cabo.tv.br/live/channel_831.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS SD",Discovery Science
+http://live.850.ch.cabo.tv.br/live/channel_850.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS SD",Discovery Turbo
+http://live.859.ch.cabo.tv.br/live/channel_859.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAIS SD",Globo News SD
+http://live.933.ch.cabo.tv.br/live/channel_933.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS SD",Viva SD
+http://live.944.ch.cabo.tv.br/live/channel_944.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redetv.png" group-title="CANAIS SD",RedeTV/Fortaleza
+http://live.961.ch.cabo.tv.br/live/channel_961.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS SD",BBC World News
+http://live.967.ch.cabo.tv.br/live/channel_967.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS SD",SyFy
+http://live.968.ch.cabo.tv.br/live/channel_968.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS SD",Studio Universal
+http://live.969.ch.cabo.tv.br/live/channel_969.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS SD",Universal Channel SD
+http://live.970.ch.cabo.tv.br/live/channel_970.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS SD",Sportv2 SD
+http://live.978.ch.cabo.tv.br/live/channel_978.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS SD",Fox Life
+http://live.979.ch.cabo.tv.br/live/channel_979.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS SD",Multishow SD
+http://live.980.ch.cabo.tv.br/live/channel_980.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS SD",Megapix SD
+http://live.983.ch.cabo.tv.br/live/channel_983.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS SD",GNT SD
+http://live.985.ch.cabo.tv.br/live/channel_985.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS SD",TV Jangadeiro/SBT
+http://live.988.ch.cabo.tv.br/live/channel_988.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS SD",TV VERDES MARES / Globo
+http://live.989.ch.cabo.tv.br/live/channel_989.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS SD",Tv Cidade/Record
+http://live.990.ch.cabo.tv.br/live/channel_990.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/redetv.png" group-title="CANAIS SD",RedeTV SD - FORTALEZA
+http://live.992.ch.cabo.tv.br/live/channel_992.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Boomerang
+http://live.401.ch.cabo.tv.br/live/channel_401.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Disney XD
+http://live.403.ch.cabo.tv.br/live/channel_403.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Nick Junior
+http://live.407.ch.cabo.tv.br/live/channel_407.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Tooncast
+http://live.408.ch.cabo.tv.br/live/channel_408.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Disney Junior
+http://live.409.ch.cabo.tv.br/live/channel_409.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Zoomoo
+http://live.839.ch.cabo.tv.br/live/channel_839.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Cartoon Network HD
+http://live.840.ch.cabo.tv.br/live/channel_840.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIS",DisneyHD
+http://live.841.ch.cabo.tv.br/live/channel_841.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Nick HD
+http://live.842.ch.cabo.tv.br/live/channel_842.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Discovery Kids HD
+http://live.845.ch.cabo.tv.br/live/channel_845.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTIS",Gloob HD
+http://live.941.ch.cabo.tv.br/live/channel_941.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PACOTE HBO",HBO 1 HD
+http://live.312.ch.cabo.tv.br/live/channel_312.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PACOTE HBO",HBO 2 HD
+http://live.313.ch.cabo.tv.br/live/channel_313.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PACOTE HBO",HBO Plus HD
+http://live.314.ch.cabo.tv.br/live/channel_314.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PACOTE HBO",HBO Family HD
+http://live.316.ch.cabo.tv.br/live/channel_316.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PACOTE HBO",HBO Signature HD
+http://live.317.ch.cabo.tv.br/live/channel_317.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PACOTE TELECINE",Telecine Cult HD
+http://live.935.ch.cabo.tv.br/live/channel_935.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PACOTE TELECINE",Telecine Pipoca HD
+http://live.936.ch.cabo.tv.br/live/channel_936.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PACOTE TELECINE",Telecine Touch HD
+http://live.937.ch.cabo.tv.br/live/channel_937.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PACOTE TELECINE",Telecine Action HD
+http://live.938.ch.cabo.tv.br/live/channel_938.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PACOTE TELECINE",Telecine Premium HD
+http://live.939.ch.cabo.tv.br/live/channel_939.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PACOTE TELECINE",Telecine Fun HD
+http://live.940.ch.cabo.tv.br/live/channel_940.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",Max UP HD
+http://live.318.ch.cabo.tv.br/live/channel_318.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",AMC HD
+http://live.819.ch.cabo.tv.br/live/channel_819.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",TNT HD
+http://live.820.ch.cabo.tv.br/live/channel_820.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",AXN HD
+http://live.821.ch.cabo.tv.br/live/channel_821.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",A&E Mundo HD
+http://live.823.ch.cabo.tv.br/live/channel_823.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",Warner Channel HD
+http://live.824.ch.cabo.tv.br/live/channel_824.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",Space HD
+http://live.826.ch.cabo.tv.br/live/channel_826.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",TNT Séries HD
+http://live.827.ch.cabo.tv.br/live/channel_827.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",Sony HD
+http://live.828.ch.cabo.tv.br/live/channel_828.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",TBS HD
+http://live.843.ch.cabo.tv.br/live/channel_843.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",Fox Action HD
+http://live.931.ch.cabo.tv.br/live/channel_931.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",Fox 1 HD
+http://live.932.ch.cabo.tv.br/live/channel_932.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",Canal FX HD
+http://live.942.ch.cabo.tv.br/live/channel_942.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",FOX HD
+http://live.943.ch.cabo.tv.br/live/channel_943.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",Universal Channel HD
+http://live.945.ch.cabo.tv.br/live/channel_945.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="FILMES",Paramount Channel HD
+http://live.860.ch.cabo.tv.br/live/channel_860.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ABERTOS EM HD",TV União HD
+http://live.800.ch.cabo.tv.br/live/channel_800.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ABERTOS EM HD",Rede Vida HD
+http://live.808.ch.cabo.tv.br/live/channel_808.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ABERTOS EM HD",Canção Nova HD
+http://live.809.ch.cabo.tv.br/live/channel_809.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ABERTOS EM HD",NordesTV HD/BAND
+http://live.956.ch.cabo.tv.br/live/channel_956.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ABERTOS EM HD",Tv Diário Fortaleza HD
+http://live.957.ch.cabo.tv.br/live/channel_957.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ABERTOS EM HD",TV Jangadeiro/SBT - HD
+http://live.958.ch.cabo.tv.br/live/channel_958.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ABERTOS EM HD",TV Verdes Mares/Globo - HD
+http://live.959.ch.cabo.tv.br/live/channel_959.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ABERTOS EM HD",TV Cidade/Record HD
+http://live.960.ch.cabo.tv.br/live/channel_960.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",E!
+http://live.500.ch.cabo.tv.br/live/channel_500.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Animal Planet
+http://live.505.ch.cabo.tv.br/live/channel_505.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Discovery World HD
+http://live.812.ch.cabo.tv.br/live/channel_812.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Discovery Home & Health HD
+http://live.822.ch.cabo.tv.br/live/channel_822.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Food Network HD
+http://live.832.ch.cabo.tv.br/live/channel_832.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Lifetime HD
+http://live.833.ch.cabo.tv.br/live/channel_833.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Comedy Central HD
+http://live.844.ch.cabo.tv.br/live/channel_844.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",History HD
+http://live.851.ch.cabo.tv.br/live/channel_851.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Discovery Theater HD
+http://live.853.ch.cabo.tv.br/live/channel_853.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",H2 HD
+http://live.854.ch.cabo.tv.br/live/channel_854.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Discovery Channel HD
+http://live.855.ch.cabo.tv.br/live/channel_855.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",TLC HD
+http://live.856.ch.cabo.tv.br/live/channel_856.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",ID HD
+http://live.857.ch.cabo.tv.br/live/channel_857.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",MTV HD
+http://live.861.ch.cabo.tv.br/live/channel_861.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Multishow HD
+http://live.946.ch.cabo.tv.br/live/channel_946.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",GNT HD
+http://live.947.ch.cabo.tv.br/live/channel_947.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Globo News HD
+http://live.948.ch.cabo.tv.br/live/channel_948.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Viva HD
+http://live.952.ch.cabo.tv.br/live/channel_952.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Megapix HD
+http://live.953.ch.cabo.tv.br/live/channel_953.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",NAT GEO HD
+http://live.954.ch.cabo.tv.br/live/channel_954.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",NatGeo Wild HD
+http://live.955.ch.cabo.tv.br/live/channel_955.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",OFF HD
+http://live.962.ch.cabo.tv.br/live/channel_962.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",BIS HD
+http://live.963.ch.cabo.tv.br/live/channel_963.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="Variedades",Globosat HDTV
+http://live.964.ch.cabo.tv.br/live/channel_964.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",ESPN Brasil HD
+http://live.813.ch.cabo.tv.br/live/channel_813.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",ESPN HD
+http://live.814.ch.cabo.tv.br/live/channel_814.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Esporte Interativo Nordeste HD
+http://live.815.ch.cabo.tv.br/live/channel_815.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Band Sports HD
+http://live.818.ch.cabo.tv.br/live/channel_818.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",ESPN+ HD
+http://live.810.ch.cabo.tv.br/live/channel_810.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Esporte Interativo HD
+http://live.811.ch.cabo.tv.br/live/channel_811.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Fox Sports HD
+http://live.928.ch.cabo.tv.br/live/channel_928.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Fox Sports 2 HD
+http://live.929.ch.cabo.tv.br/live/channel_929.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",SPORTV HD
+http://live.949.ch.cabo.tv.br/live/channel_949.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Sportv2 HD
+http://live.950.ch.cabo.tv.br/live/channel_950.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Sportv3 HD
+http://live.951.ch.cabo.tv.br/live/channel_951.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Sportv4 HD
+http://live.906.ch.cabo.tv.br/live/channel_906.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Sportv5 HD
+http://live.907.ch.cabo.tv.br/live/channel_907.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Sportv6 HD
+http://live.908.ch.cabo.tv.br/live/channel_908.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Sportv7 HD
+http://live.909.ch.cabo.tv.br/live/channel_909.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Sportv8 HD
+http://live.910.ch.cabo.tv.br/live/channel_910.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Sportv9 HD
+http://live.911.ch.cabo.tv.br/live/channel_911.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Sportv10 HD
+http://live.912.ch.cabo.tv.br/live/channel_912.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Sportv11 HD
+http://live.913.ch.cabo.tv.br/live/channel_913.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Sportv12 HD
+http://live.914.ch.cabo.tv.br/live/channel_914.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Sportv13 HD
+http://live.915.ch.cabo.tv.br/live/channel_915.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Sportv14 HD
+http://live.916.ch.cabo.tv.br/live/channel_916.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Sportv15 HD
+http://live.917.ch.cabo.tv.br/live/channel_917.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Sportv16 HD
+http://live.918.ch.cabo.tv.br/live/channel_918.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Premiere1 HD
+http://live.926.ch.cabo.tv.br/live/channel_926.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Premiere2 HD
+http://live.925.ch.cabo.tv.br/live/channel_925.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Premiere3 HD
+http://live.924.ch.cabo.tv.br/live/channel_924.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Premiere4 HD
+http://live.923.ch.cabo.tv.br/live/channel_923.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Premiere5 HD
+http://live.922.ch.cabo.tv.br/live/channel_922.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Premiere6 HD
+http://live.921.ch.cabo.tv.br/live/channel_921.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Premiere7 HD
+http://live.920.ch.cabo.tv.br/live/channel_920.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Premiere8 HD
+http://live.919.ch.cabo.tv.br/live/channel_919.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ESPORTES",Combate HD
+http://live.927.ch.cabo.tv.br/live/channel_927.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ADULTO",Sextreme (ADULTO)
+http://live.971.ch.cabo.tv.br/live/channel_971.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ADULTO",Sexy Hot (ADULTO)
+http://live.972.ch.cabo.tv.br/live/channel_972.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ADULTO",Playboy (ADULTO
+http://live.973.ch.cabo.tv.br/live/channel_973.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="ADULTO",Venus (ADULTO)
+http://live.974.ch.cabo.tv.br/live/channel_974.m3u8
+
+
+
+
+
+
+
+
+
